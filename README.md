@@ -12,3 +12,8 @@ detect any particular face
 ##work is still in progress to complete the  faces_detect.py
 
 the person can now be detected along with previous persons which were already added  by their id(displayed at the time of executing the faces_train.py)
+
+# NOTE:
+you may have to run this before running the code:(to use the recognizer)
+
+pip install opencv-contrib-python 
